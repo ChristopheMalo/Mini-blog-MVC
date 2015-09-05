@@ -8,5 +8,6 @@ La méthodologie peut s'adapter à d'autres langages.
 
 C'est une méthodologie. Elle n'est pas unique.
 
-Copyright : Openclassrooms - Cours Concevevoir un site en PHP et MySQL
-Adaptation : Christophe Malo
+Copyright :
+- Openclassrooms - Cours Concevevoir un site en PHP et MySQL
+- Adaptation : Christophe Malo
