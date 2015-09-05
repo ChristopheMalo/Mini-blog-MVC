@@ -19,3 +19,8 @@ C'est une méthodologie. Elle n'est pas unique.
 ## Copyright :
 - Openclassrooms - Cours Concevevoir un site en PHP et MySQL
 - Adaptation : Christophe Malo
+
+## Améliorations
+Ce projet est en cours.
+
+Plusieurs améléiorations vont être ajoutées. (Connexion singleton, bootstrap, autres fichiers php blog etc.)
