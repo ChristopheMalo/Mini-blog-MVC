@@ -23,4 +23,4 @@ C'est une méthodologie. Elle n'est pas unique.
 ## Améliorations
 Ce projet est en cours.
 
-Plusieurs améléiorations vont être ajoutées. (Connexion singleton, bootstrap, autres fichiers php blog etc.)
+Plusieurs améliorations vont être ajoutées. (Connexion singleton, bootstrap, autres fichiers php blog etc.)
